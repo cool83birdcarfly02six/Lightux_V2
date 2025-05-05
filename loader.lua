@@ -256,7 +256,7 @@ CopyWebsite.MouseButton1Click:Connect(function()
 		["Timeout"] = 10,
 		["Audio"] = true 
 	})
-	setclipboard(Links[GameId].ScriptLink)
+	setclipboard(Links[GameId].KeyLink)
 end)
 
 CheckKey.MouseButton1Click:Connect(function()
