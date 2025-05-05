@@ -4,7 +4,7 @@ local NotificationLoad = loadstring(game:HttpGet(('https://raw.githubusercontent
 local Links = {
     [1490130369] = {
         ScriptLink = "https://api.luarmor.net/files/v3/loaders/b51325b35c4c7cf0eddf46b4f9657f74.lua",
-        KeyLink = "idk"
+        KeyLink = "https://ads.luarmor.net/get_key?for=Elysium_Free_1_Days-zUQyKARueqbY"
     }
 
 }
