@@ -5,6 +5,10 @@ local Links = {
     [1490130369] = {
         ScriptLink = "https://api.luarmor.net/files/v3/loaders/b51325b35c4c7cf0eddf46b4f9657f74.lua",
         KeyLink = "https://discord.gg/3mrasRydM2"
+    },
+    [7436755782] = {
+        ScriptLink = "https://api.luarmor.net/files/v3/loaders/cd2b976f54b489cf4ee7cf4be0a54bf8.lua",
+        KeyLink = "https://discord.gg/3mrasRydM2"
     }
 
 }
