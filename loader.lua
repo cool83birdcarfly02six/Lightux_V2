@@ -265,8 +265,10 @@ end)
 
 CheckKey.MouseButton1Click:Connect(function()
 	script_key=KeyInput.Text;
+	task.delay(2, function()
+	    KEYSYSTEM:Destroy()
+	end)
 	loadstring(game:HttpGet(Links[GameId].ScriptLink))()
-	KEYSYSTEM:Destroy()
 end)
 
 
